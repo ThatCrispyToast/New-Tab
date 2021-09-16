@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Simple New Tab",
+  "version": "1.0",
+
+  "description": "A Minimalistic and Elegant New Tab Page.",
+
+  "icons": {
+    "48": "assets/icon48.png"
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "extension@thatcrispytoast.github.io"
+    }
+  },
+  
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  }
+  
+}
