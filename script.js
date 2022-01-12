@@ -3,8 +3,8 @@ const months = ["January", "February", "March", "April", "May", "June", "July", 
 
 function updateTime() {
     const currentDate = new Date();
-    document.getElementById("time").innerHTML = currentDate.toLocaleTimeString('it-IT');
-    document.getElementById("date").innerHTML = weekdays[currentDate.getDay()] + ", " + months[currentDate.getMonth()] + " " + currentDate.getUTCDate();
+    document.getElementById("time").innerText = currentDate.toLocaleTimeString('it-IT');
+    document.getElementById("date").innerText = weekdays[currentDate.getDay()] + ", " + months[currentDate.getMonth()] + " " + currentDate.getUTCDate();
 }
 
 updateTime();
