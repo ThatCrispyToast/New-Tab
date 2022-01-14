@@ -9,6 +9,11 @@ Just zip the source code.
 
 <h2>Installation</h2>
 
+<h4>From Firefox</h4>
+https://addons.mozilla.org/en-US/firefox/addon/simple-new-tab/
+
+<h4>From Built Source Code</h4>
+
 <b>Note that you must be using either [Firefox Nightly](https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly) or [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/). Unsigned extensions do not work with regular Firefox.</b>
 
 Before Installing the extension navigate to [about:config](about:config) and set *xpinstall.signatures.required* to **false**.
