@@ -5,7 +5,7 @@
 <p align="center">Looks best with <a href=https://github.com/nicoth-in/Dark-Space-Theme>Nicothin's Dark Space theme</a>.</p>
 
 <h2>Building</h2>
-Just zip the source code.
+Just zip the source code.[1]
 
 <h2>Installation</h2>
 
@@ -21,3 +21,5 @@ Before Installing the extension navigate to [about:config](about:config) and set
 To install the extension, drop either your own build of the source code or a zip from the [releases section](https://github.com/ThatCrispyToast/Simple-New-Tab/releases) onto the extensions list at [about:addons](about:addons).
 
 ![Gif of User Dropping ZIP onto addons Page](https://media4.giphy.com/media/9DebsQlodranIJ2kHG/giphy.gif?cid=790b761105cb79f1e7a23d79a57735ff6afca280dc09ccdf&rid=giphy.gif)
+
+[1]: Why many word when few do trick?
