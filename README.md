@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/61917048/133905721-b16cd510-89d0-4a4c-95dd-bf5a5b94d9aa.png)
 <p align="center">Looks best with <a href=https://github.com/nicoth-in/Dark-Space-Theme>Nicothin's Dark Space theme</a>.</p>
 
-<h2>Building</h2>
+<h2>"Building"</h2>
 Just zip the source code.
 
 <h2>Installation</h2>
